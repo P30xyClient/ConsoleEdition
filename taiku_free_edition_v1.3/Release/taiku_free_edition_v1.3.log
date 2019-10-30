@@ -1,0 +1,10 @@
+﻿  taiku_free_edition_v1.3.cpp
+C:\Users\Anna\source\repos\taiku_free_edition_v1.3\taiku_free_edition_v1.3\taiku_free_edition_v1.3.cpp(74,22): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anna\source\repos\taiku_free_edition_v1.3\taiku_free_edition_v1.3\taiku_free_edition_v1.3.cpp(85,18): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anna\source\repos\taiku_free_edition_v1.3\taiku_free_edition_v1.3\taiku_free_edition_v1.3.cpp(97,10): warning C4244:  'argument': conversion from 'float' to 'DWORD', possible loss of data
+  Generating code
+  1 of 33 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  taiku_free_edition_v1.3.vcxproj -> C:\Users\Anna\source\repos\taiku_free_edition_v1.3\Release\taiku_free_edition_v1.3.exe

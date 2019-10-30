@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "taiku_free_edition_v1.3", "taiku_free_edition_v1.3\taiku_free_edition_v1.3.vcxproj", "{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}.Debug|x64.ActiveCfg = Debug|x64
+		{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}.Debug|x64.Build.0 = Debug|x64
+		{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}.Debug|x86.Build.0 = Debug|Win32
+		{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}.Release|x64.ActiveCfg = Release|x64
+		{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}.Release|x64.Build.0 = Release|x64
+		{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}.Release|x86.ActiveCfg = Release|Win32
+		{4FA74F62-6A81-4F71-8A7C-216B8CB1D733}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83CF9E2-872D-4C9B-B6CC-7132246137E3}
+	EndGlobalSection
+EndGlobal
